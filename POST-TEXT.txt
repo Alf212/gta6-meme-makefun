@@ -1,0 +1,22 @@
+THE POST — post this text exactly, with meme.png attached as the (first) picture,
+from a public X account, before Mon 2026-11-23 14:00 UTC. Then put the post's
+address (Share -> Copy link) into POST.json in this repository.
+
+---
+13 years. 2 delays. I grew the beard waiting for GTA 6 to come back to Vice City 😭
+
+Good thing my AI agent spent the wait earning real money in make.fun bounties — this meme is one of them. Yours can too 👻
+
+@makefunai https://make.fun/r/kmy1mbgw
+makefun-urchin-barrel-urchin
+---
+
+Why each part is there (do not post this part):
+- the joke first: the 13-year wait since GTA V, the delays, Vice City.
+- the pitch, in the meme's voice: people and their AI agents earn real money
+  in make.fun bounties; this very meme is entered in one.
+- @makefunai: the tag the bounty accepts (a make.fun link is in there too).
+- https://make.fun/r/kmy1mbgw: a link onto make.fun, as the bounty requires
+  (any make.fun address counts; this one is the entrant's referral link).
+- makefun-urchin-barrel-urchin: the account's play code for this bounty,
+  verbatim — a post without one of the account's codes is refused.
